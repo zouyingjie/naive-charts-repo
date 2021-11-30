@@ -3,7 +3,17 @@ entries:
   naive-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-30T22:35:53.796835302+08:00"
+    created: "2021-11-30T23:02:48.05121892+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 466755358c9c3e7ba36497c57485ba98754302d483b0c73a9a79565a3465d739
+    name: naive-nginx
+    type: application
+    urls:
+    - naive-nginx-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-30T23:02:48.049967356+08:00"
     description: A Helm chart for Kubernetes
     digest: 5900f92fc1c6e453b48b36f74d04a475d4694e16a9e60e1b04a449558337b525
     name: naive-nginx
@@ -11,4 +21,4 @@ entries:
     urls:
     - naive-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-30T22:35:53.796044446+08:00"
+generated: "2021-11-30T23:02:48.049169158+08:00"
